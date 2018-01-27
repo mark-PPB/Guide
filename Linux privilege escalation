@@ -1,0 +1,7 @@
+(Linux) privilege escalation is all about:
+
+Collect - Enumeration, more enumeration and some more enumeration.
+Process - Sort through data, analyse and prioritisation.
+Search - Know what to search for and where to find the exploit code.
+Adapt - Customize the exploit, so it fits. Not every exploit work for every system "out of the box".
+Try - Get ready for (lots of) trial and error.
